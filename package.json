@@ -1,0 +1,16 @@
+{
+  "name": "appium-js-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/add-item-to-cart.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "webdriverio": "^10.2.0"
+  }
+}
